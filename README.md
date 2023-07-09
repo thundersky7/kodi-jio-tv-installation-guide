@@ -31,11 +31,21 @@ Go to `Settings/System/Add-ons` > Turn ON. (Press YES if you get the warning!)
 
 ![Logo](https://i.imgur.com/gedjT9z.png)
 
-## Step 3 - Turn on Installation from unknown sources.
+## Step 3 - Add-on installation
 
 Go to `Settings/Add-ons` > Install from ZIP file
 
 ![Logo](https://i.imgur.com/npxR05Q.png)
+
+## Step 3.1 - Select ZIP file
+
+Select `repository.tobalan-2.0.1.zip`  -> Link1 - Link2 (Repository - Version 2.0.1 by @tobalan)
+
+![Logo](https://i.imgur.com/Gn7ICe2.png)
+
+## Step 3.2 - Add-on intallation
+
+
 
 
 
