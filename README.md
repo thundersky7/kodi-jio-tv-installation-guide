@@ -82,28 +82,35 @@ Log in via WEB or Keyboard (OTP/Password)
 
 ![Logo](https://i.imgur.com/GPlcKs1.png)
 
+
 ###### Pre-Setup
 
 <h1 align="center">  Pre-Setup Installation <h1>
 
 ## Step 1 - Install Kodi
 
-Install KODI from [Play Store](https://bit.ly/3NIIlea) or [Apkmirror](https://bit.ly/3NM28t0).
+Install KODI 20.2 from [Apkmirror](https://bit.ly/3NM28t0)
 
-## Step 2 - Turn on Installation from unknown sources.
+> __Note__ :
+> Kodi Version 20.2 required
 
-Go to `Settings/System/Add-ons` > Turn ON. (Press YES if you get the warning!)
+## Step 2 - Download necessary files
 
-![Logo](https://i.imgur.com/gedjT9z.png)
+files : Link1 | Link2 
+
+## Step 2 - Replace Files
+
+Go to `Internal Storage \ Android \ data \ org.xbmc.kodi \ files \ .kodi`
+
+> __Note__ :
+> ".kodi" is hidden folder and you need to "Turn ON show hidden files" in your file explorer.
+
+On this location paste the data from above link.
+
+![Logo](https://i.imgur.com/T4n0b6W.png)
+
+Open Kodi > Log-in > Enjoy!
 
 
-
-
-> __Note__
-  
-> __Note__
->
-> 
-> __Warning__
 
 
