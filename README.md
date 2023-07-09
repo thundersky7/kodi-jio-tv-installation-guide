@@ -25,6 +25,8 @@ This guide will show you how to install the Jio TV plugin on KODI. Jio TV is a s
 
 Install KODI from [Play Store](https://bit.ly/3NIIlea) or [Apkmirror](https://bit.ly/3NM28t0).
 
+Open KODI.
+
 ## Step 2 - Turn on Installation from unknown sources.
 
 Go to `Settings/System/Add-ons` > Turn ON. (Press YES if you get the warning!)
@@ -46,6 +48,8 @@ Select `repository.tobalan-2.0.1.zip`  -> [Link1](https://bit.ly/3POIaki) - [Lin
 ## Step 3.2 - Jio TV add-on isntallation
 
 Go to `Settings / Add-ons / Install from repository / TobAlan Repository / Video Add-ons / JioTV`
+
+Install > OK
 
 ![Logo](https://i.imgur.com/UiotOaz.png)
 
