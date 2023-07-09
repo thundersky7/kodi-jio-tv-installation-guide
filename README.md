@@ -8,11 +8,14 @@
   Simple step by step guide to install Jio TV plugin on KODI.
 </h1>
 
-### There are two ways to install Jio TV on KODI.
-
-
-
 This guide will walk you through the process of installing the Jio TV plugin on KODI so you can enjoy live TV channels and on-demand content from the Jio TV service.
+
+<h3 align="center"> There are two ways to install Jio TV on KODI.
+1. Manual
+2. Automatic
+</h3>
+
+
 
 ## Prerequisites
 
