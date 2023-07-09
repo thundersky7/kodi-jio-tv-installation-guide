@@ -19,7 +19,11 @@ This guide will walk you through the process of installing the Jio TV plugin on 
 <h6> ☝🏻 Just copy past file and done ✅</h6>
 
 
-## Manually
+
+
+
+######## Manual Installation
+<h1 align="center">  Manual <h1>
 ## Prerequisites
 
 Before we begin, make sure you have the following:
