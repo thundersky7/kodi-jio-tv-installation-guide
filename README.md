@@ -83,7 +83,23 @@ Log in via WEB or Keyboard (OTP/Password)
 ![Logo](https://i.imgur.com/GPlcKs1.png)
 
 ###### Pre-Setup
+
 <h1 align="center">  Pre-Setup Installation <h1>
+
+## Step 1 - Install Kodi
+
+Install KODI from [Play Store](https://bit.ly/3NIIlea) or [Apkmirror](https://bit.ly/3NM28t0).
+
+## Step 2 - Turn on Installation from unknown sources.
+
+Go to `Settings/System/Add-ons` > Turn ON. (Press YES if you get the warning!)
+
+![Logo](https://i.imgur.com/gedjT9z.png)
+
+
+
+
+> __Note__
   
 > __Note__
 >
