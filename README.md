@@ -43,9 +43,11 @@ Select `repository.tobalan-2.0.1.zip`  -> Link1 - Link2 (Repository - Version 2.
 
 ![Logo](https://i.imgur.com/Gn7ICe2.png)
 
-## Step 3.2 - Add-on intallation
+## Step 3.2 - Jio TV add-on isntallation
 
+Go to `Settings / Add-ons / Install from repository / TobAlan Repository / Video Add-ons / JioTV`
 
+![Logo](https://i.imgur.com/UiotOaz.png)
 
 
 
