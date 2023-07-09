@@ -16,12 +16,7 @@ This guide will walk you through the process of installing the Jio TV plugin on 
 
 <a href="#about">Automatic</a> 
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#dataset">Dataset</a> •
-  <a href="#EDA">EDA</a> 
-</p>
-
+<h6> ⬆️ Click to go to that specific section:</h6>
 
 
 
