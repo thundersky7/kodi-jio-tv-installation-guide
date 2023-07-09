@@ -39,7 +39,7 @@ Go to `Settings/Add-ons` > Install from ZIP file
 
 ## Step 3.1 - Select ZIP file
 
-Select `repository.tobalan-2.0.1.zip`  -> Link1 - Link2 (Repository - Version 2.0.1 by @tobalan)
+Select `repository.tobalan-2.0.1.zip`  -> [Link1](https://bit.ly/3POIaki) - [Link2](https://bit.ly/44Dobt0) (Repository - Version 2.0.1 by @tobalan)
 
 ![Logo](https://i.imgur.com/Gn7ICe2.png)
 
@@ -85,7 +85,7 @@ Log in via WEB or Keyboard (OTP/Password)
 
 ###### Pre-Setup
 
-<h1 align="center">  Pre-Setup Installation <h1>
+<h1 align="center">  Pre-Setup Installation (soon) <h1>
 
 ## Step 1 - Install Kodi
 
@@ -107,7 +107,7 @@ Go to `Internal Storage \ Android \ data \ org.xbmc.kodi \ files \ .kodi`
 
 On this location paste the data from above link.
 
-![Logo](https://i.imgur.com/T4n0b6W.png)
+![Logo](https://i .imgur .com/ T4n0b6W.png)
 
 Open Kodi > Log-in > Enjoy!
 
