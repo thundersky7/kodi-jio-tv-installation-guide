@@ -12,11 +12,11 @@ This guide will walk you through the process of installing the Jio TV plugin on 
 
 <h3 align="center"> There are two ways to install Jio TV on KODI.</h3>
 
-<a href="#Manual">1️⃣ Manual</a> 
+<a href="#Manual">1️⃣ Manual</a>
+<h6> ☝🏻 For installing plugin manually</h6>
 
 <a href="#Automatic">2️⃣ Automatic</a> 
-
-<h6> ☝🏻 Click to go to that specific section:</h6>
+<h6> ☝🏻 Just copy past file and done ✅</h6>
 
 
 
