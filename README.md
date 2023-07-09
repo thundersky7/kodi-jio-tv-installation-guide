@@ -74,12 +74,13 @@ Steup PVR IPTV
 
 ![Logo](https://i.imgur.com/EZm4UFv.png)
 
-## Step 6 - Jio TV Configuration and logging in.
+Log in via WEB or Keyboard (OTP/Password)
 
-Go to `Settings / Add-ons / My Add-ons / Video Add-ons / JioTV / Configure`
+![Logo](https://i.imgur.com/keTTETa.png)
 
-![Logo](https://i.imgur.com/Ba2txZQ.png)
+## Step 6 - Play any channel from TV section.
 
+![Logo](https://i.imgur.com/GPlcKs1.png)
 
 
 # Simple step by step guide to install Jio TV plugin on KODI.
