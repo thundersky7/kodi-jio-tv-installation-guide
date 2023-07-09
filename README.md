@@ -64,11 +64,21 @@ Install the downloaded `script.module.requests.thundersky7+2.27.1-jiotvfix-reque
 
 ![Logo](https://i.imgur.com/KQWGosI.png)
 
-## Step 5 -
+## Step 5 - Jio TV Configuration and logging in.
 
+Go to `Settings / Add-ons / My Add-ons / Video Add-ons / JioTV / Configure` 
 
+![Logo](https://i.imgur.com/Ba2txZQ.png)
 
+Steup PVR IPTV
 
+![Logo](https://i.imgur.com/EZm4UFv.png)
+
+## Step 6 - Jio TV Configuration and logging in.
+
+Go to `Settings / Add-ons / My Add-ons / Video Add-ons / JioTV / Configure`
+
+![Logo](https://i.imgur.com/Ba2txZQ.png)
 
 
 
