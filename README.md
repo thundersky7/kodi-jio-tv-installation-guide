@@ -22,7 +22,7 @@ This guide will walk you through the process of installing the Jio TV plugin on 
 
 
 
-######## Manual Installation
+##### Manual Installation
 <h1 align="center">  Manual <h1>
 ## Prerequisites
 
