@@ -45,6 +45,8 @@ Install KODI from [Play Store](https://bit.ly/3NIIlea) or [Apkmirror](https://bi
 
 Go to `Settings/System/Add-ons` > Turn ON. (Press YES if you get the warning!)
 
+![Logo](https://i.imgur.com/gedjT9z.png)
+
 
 
 
