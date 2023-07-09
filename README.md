@@ -50,6 +50,22 @@ Go to `Settings / Add-ons / Install from repository / TobAlan Repository / Video
 ![Logo](https://i.imgur.com/UiotOaz.png)
 
 
+## Step 4 - Apply Error Fix-
+
+Go to `Settings/System/Add-ons`
+
+Under the `Updates` section, select `Notify, but don't install updates`
+
+![Logo](https://i.imgur.com/Tb21yOc.png)
+
+Go to `Settings/Add-ons/Install from zip file`
+
+Install the downloaded `script.module.requests.thundersky7+2.27.1-jiotvfix-requests-python.zip` -> [Link1](http://gestyy.com/egHZfc) - [Link2](https://shrinke.me/4hIgkb) 
+
+![Logo](https://i.imgur.com/KQWGosI.png)
+
+## Step 5 -
+
 
 
 
