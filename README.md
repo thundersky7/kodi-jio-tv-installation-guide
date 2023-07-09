@@ -22,7 +22,7 @@ This guide will walk you through the process of installing the Jio TV plugin on 
 
 
 
-### Manual Installation
+# Manual Installation
 <h1 align="center">  Manual <h1>
 ## Prerequisites
 
@@ -49,3 +49,5 @@ Before we begin, make sure you have the following:
 - Make sure you have a stable internet connection while using the Jio TV plugin to avoid buffering issues.
 - The Jio TV plugin may not work in all regions or on all devices. If you encounter any issues, try using a VPN or contacting Jio TV support for assistance.
 - Use the Jio TV plugin at your own risk. We do not endorse or promote the use of unofficial plugins or add-ons.
+
+[README](https://github.com/siddharthsky/instagram-reach-eda-predictive-modelling-ML-p/blob/main/README.md)
