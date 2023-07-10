@@ -10,15 +10,6 @@
 
 This guide will show you how to install the Jio TV plugin on KODI. Jio TV is a streaming service that offers live TV channels, movies, and shows. 
 
-<h3 align="center"> There are two ways to install Jio TV on KODI.</h3>
-<h3 align="center"><a href="#Manual">1. Manual</a> | <a href="#Pre-Setup">2. Pre-Setup</a></h3>
-
-<a href="#Manual">1. Manual</a> ⚙️ For installing plugin manually</h6>
-
-<a href="#Pre-Setup">2. Pre-Setup</a> 🚀 Just copy past file and done ✅</h6>
-
-
-###### Manual 
 <h1 align="center">  Manual Installation <h1>
 
 ## Step 1 - Install Kodi
@@ -87,33 +78,6 @@ Log in via WEB or Keyboard (OTP/Password)
 ![Logo](https://i.imgur.com/GPlcKs1.png)
 
 
-###### Pre-Setup
-
-<h1 align="center">  Pre-Setup Installation (soon) <h1>
-
-## Step 1 - Install Kodi
-
-Install KODI 20.2 from [Apkmirror](https://bit.ly/3NM28t0)
-
-> __Note__ :
-> Kodi Version 20.2 required
-
-## Step 2 - Download necessary files
-
-files : Link1 | Link2 
-
-## Step 2 - Replace Files
-
-Go to `Internal Storage \ Android \ data \ org.xbmc.kodi \ files \ .kodi`
-
-> __Note__ :
-> ".kodi" is hidden folder and you need to "Turn ON show hidden files" in your file explorer.
-
-On this location paste the data from above link.
-
-![Logo](https://i .imgur .com/ T4n0b6W.png)
-
-Open Kodi > Log-in > Enjoy!
 
 
 
